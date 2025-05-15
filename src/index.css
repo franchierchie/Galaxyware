@@ -479,7 +479,6 @@ section .categories-wrapper .category-card {
   border: 1px solid var(--c-secondary-2);
   box-shadow: var(--shadow-1);
   border-radius: calc(16px + 10px);
-  min-width: clamp(16.25rem, 22vw, 20rem);
   height: min-content;
   padding: .5rem;
   scroll-snap-align: center;
