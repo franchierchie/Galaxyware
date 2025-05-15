@@ -4,7 +4,7 @@ import { Provider } from 'react-redux';
 import { BrowserRouter } from 'react-router-dom';
 
 import { store } from './store';
-import { EcommerceApp } from './ecommerceApp';
+import { EcommerceApp } from './EcommerceApp';
 
 import './index.css';
 
